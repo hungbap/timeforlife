@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1099162643512",
+    "firebase_url": "https://signin-f17f6-default-rtdb.firebaseio.com",
+    "project_id": "signin-f17f6",
+    "storage_bucket": "signin-f17f6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099162643512:android:3a53329c0a2bedf53acacd",
+        "android_client_info": {
+          "package_name": "com.example.time_for_life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099162643512-ojebeih82vkapuvndrgull6pjlgojm14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.time_for_life",
+            "certificate_hash": "fe10aae85ca61db233c476cc7773d7651970b33d"
+          }
+        },
+        {
+          "client_id": "1099162643512-r6fhb2b1jvfeo3r39qlkj1grkdfs4iag.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD68P5GQVqgj4kVpylgG-r9-ma2ex3lFNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099162643512-r6fhb2b1jvfeo3r39qlkj1grkdfs4iag.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
